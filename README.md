@@ -1,4 +1,4 @@
-# User Interface Project
+# Graphs & Mazes
 
 # This program takes a Maze and turns it into a
 # Weighted Graph, including some GUI elements.
